@@ -1,5 +1,5 @@
 from instagram import application
 
-print('Yo')
+print('Oh hi mark')
 
 application.run()
